@@ -58,30 +58,25 @@
             {
               "id": "src-b13f159df5",
               "name": "Bún chả TV",
-              "contents": [
+              "streams": [
                 {
-                  "id": "ct-b13f159df5",
-                  "streams": [
+                  "id": "st-b13f159df5",
+                  "name": "KayTee",
+                  "stream_links": [
                     {
-                      "id": "st-b13f159df5",
-                      "name": "KayTee",
-                      "stream_links": [
+                      "id": "lnk-5551ff2f61",
+                      "name": "Link 1",
+                      "type": "hls",
+                      "default": true,
+                      "url": "https://cdn-hls.taoxanh.biz/live/69a2f347326d5_42120/index.m3u8?expire=1772891591&sign=30e0f40cbf2328136922ad7ee16ac735",
+                      "request_headers": [
                         {
-                          "id": "lnk-5551ff2f61",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69a2f347326d5_42120/index.m3u8?expire=1772891591&sign=30e0f40cbf2328136922ad7ee16ac735",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv.net/truc-tiep/wu-yize-vs-barry-hawkins-0000-01-03-2026/601283361"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
+                          "key": "Referer",
+                          "value": "https://bunchatv.net/truc-tiep/wu-yize-vs-barry-hawkins-0000-01-03-2026/601283361"
+                        },
+                        {
+                          "key": "User-Agent",
+                          "value": "Mozilla/5.0"
                         }
                       ]
                     }
@@ -121,31 +116,25 @@
             {
               "id": "src-b13f159df5",
               "name": "Bún chả TV",
-              "contents": [
+              "streams": [
                 {
-                  "id": "ct-b13f159df5",
-                  "name": "Xem trực tiếp Wu Yize vs Barry Hawkins 00:00 ngày 01/03 BetVictor Welsh Open 2026",
-                  "streams": [
+                  "id": "st-b13f159df5",
+                  "name": "KayTee",
+                  "stream_links": [
                     {
-                      "id": "st-b13f159df5",
-                      "name": "KayTee",
-                      "stream_links": [
+                      "id": "lnk-5551ff2f61",
+                      "name": "Link 1",
+                      "type": "hls",
+                      "default": true,
+                      "url": "https://cdn-hls.taoxanh.biz/live/69a2f347326d5_42120/index.m3u8?expire=1772891591&sign=30e0f40cbf2328136922ad7ee16ac735",
+                      "request_headers": [
                         {
-                          "id": "lnk-5551ff2f61",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69a2f347326d5_42120/index.m3u8?expire=1772891591&sign=30e0f40cbf2328136922ad7ee16ac735",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv.net/truc-tiep/wu-yize-vs-barry-hawkins-0000-01-03-2026/601283361"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
+                          "key": "Referer",
+                          "value": "https://bunchatv.net/truc-tiep/wu-yize-vs-barry-hawkins-0000-01-03-2026/601283361"
+                        },
+                        {
+                          "key": "User-Agent",
+                          "value": "Mozilla/5.0"
                         }
                       ]
                     }
@@ -186,31 +175,25 @@
             {
               "id": "src-38d67b30bf",
               "name": "Bún chả TV",
-              "contents": [
+              "streams": [
                 {
-                  "id": "ct-38d67b30bf",
-                  "name": "Xem trực tiếp John Higgins vs Jack Lisowski 02:00 ngày 01/03 BetVictor Welsh Open 2026",
-                  "streams": [
+                  "id": "st-38d67b30bf",
+                  "name": "KayTee",
+                  "stream_links": [
                     {
-                      "id": "st-38d67b30bf",
-                      "name": "KayTee",
-                      "stream_links": [
+                      "id": "lnk-b47c81afa9",
+                      "name": "Link 1",
+                      "type": "hls",
+                      "default": true,
+                      "url": "https://cdn-hls.taoxanh.biz/live/69a34e79326d5_138846/index.m3u8?expire=1772914937&sign=11273d30864561fe9337457341ebdfc2",
+                      "request_headers": [
                         {
-                          "id": "lnk-b47c81afa9",
-                          "name": "Link 1",
-                          "type": "hls",
-                          "default": true,
-                          "url": "https://cdn-hls.taoxanh.biz/live/69a34e79326d5_138846/index.m3u8?expire=1772914937&sign=11273d30864561fe9337457341ebdfc2",
-                          "request_headers": [
-                            {
-                              "key": "Referer",
-                              "value": "https://bunchatv.net/truc-tiep/john--higgins-vs-jack--lisowski-0200-01-03-2026/601287150"
-                            },
-                            {
-                              "key": "User-Agent",
-                              "value": "Mozilla/5.0"
-                            }
-                          ]
+                          "key": "Referer",
+                          "value": "https://bunchatv.net/truc-tiep/john--higgins-vs-jack--lisowski-0200-01-03-2026/601287150"
+                        },
+                        {
+                          "key": "User-Agent",
+                          "value": "Mozilla/5.0"
                         }
                       ]
                     }
@@ -229,6 +212,3 @@
     "save_wishlist": false
   }
 }
-
-
-
