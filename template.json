@@ -53,7 +53,7 @@
             "shape": "square"
           },
           "type": "single",
-          "display": "text-below",
+          "display": "cover",
           "sources": [
             {
               "id": "src-b13f159df5",
@@ -61,7 +61,6 @@
               "contents": [
                 {
                   "id": "ct-b13f159df5",
-                  "name": "Xem trực tiếp Wu Yize vs Barry Hawkins 00:00 ngày 01/03 BetVictor Welsh Open 2026",
                   "streams": [
                     {
                       "id": "st-b13f159df5",
@@ -117,7 +116,7 @@
             "shape": "square"
           },
           "type": "single",
-          "display": "text-below",
+          "display": "cover",
           "sources": [
             {
               "id": "src-b13f159df5",
@@ -182,7 +181,7 @@
             "shape": "square"
           },
           "type": "single",
-          "display": "text-below",
+          "display": "cover",
           "sources": [
             {
               "id": "src-38d67b30bf",
@@ -230,5 +229,6 @@
     "save_wishlist": false
   }
 }
+
 
 
